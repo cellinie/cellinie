@@ -1,11 +1,11 @@
 <h1>Hi, I'm Cellinie! 
 <h2>👨‍💻 Data Science Projects</h2>
 
-- [Sales and Customer Dashboards in Tableau] (https://public.tableau.com/app/profile/cellinie.cellinie/viz/SalesDashboard_17181019831590/SalesDashboard?publish=yes)
-- [Clustering Stocks] (https://github.com/cellinie/Clustering-Stocks)
+- [Sales and Customer Dashboards in Tableau](https://public.tableau.com/app/profile/cellinie.cellinie/viz/SalesDashboard_17181019831590/SalesDashboard?publish=yes)
+- [Clustering Stocks](https://github.com/cellinie/Clustering-Stocks)
 - [Housing Price Prediction](https://github.com/cellinie/Housing-Price-Prediction)
-- [Pulsar Star Classification] (https://github.com/cellinie/Pulsar-Star-Classification)
-- [Fashion MNIST Recognition] (https://github.com/cellinie/Clothing-Image-Recognition)
+- [Pulsar Star Classification](https://github.com/cellinie/Pulsar-Star-Classification)
+- [Fashion MNIST Recognition](https://github.com/cellinie/Clothing-Image-Recognition)
 
  
 
