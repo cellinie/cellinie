@@ -16,6 +16,8 @@
 - [April 2024 Market Recap on S&P500, Nasdaq, DJIA, and Russell 2000](https://ming20303.wixsite.com/investsync-2/blog)
 
 <h2> 🔭 Research Projects </h2>
+
+- [April 2024 Market Recap on S&P500, Nasdaq, DJIA, and Russell 2000](https://ming20303.wixsite.com/investsync-2/blog)
 - [Investigating the Perception on Background Music to Concentration Levels when Performing Tasks](https://github.com/cellinie/Research-on-Music-to-Concentration)
 
 <h2> 🤳 Connect with me:</h2>
