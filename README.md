@@ -6,13 +6,17 @@
 - [Housing Price Prediction](https://github.com/cellinie/Housing-Price-Prediction)
 - [Pulsar Star Classification](https://github.com/cellinie/Pulsar-Star-Classification)
 - [Fashion MNIST Recognition](https://github.com/cellinie/Clothing-Image-Recognition)
+- [Home Mortgage Dashboard in Tableau](https://public.tableau.com/app/profile/cellinie.cellinie/viz/HomeMortgage_17188317117030/Dashboard1?publish=yes)
 
  
 
 
 <h2>📺 InvestSync Market Analyst Journal</h2>
 
-- [April 2024 Market Recap on S&P500, Nasdaq, DJIA, and Russell 2000](https://)
+- [April 2024 Market Recap on S&P500, Nasdaq, DJIA, and Russell 2000](https://ming20303.wixsite.com/investsync-2/blog)
+
+<h2> 🔭 Research Projects </h2>
+- [Investigating the Perception on Background Music to Concentration Levels when Performing Tasks around Introverted and Extroverted Students in CUHKSZ](https://github.com/cellinie/Research-on-Music-to-Concentration/tree/main)
 
 <h2> 🤳 Connect with me:</h2>
 
